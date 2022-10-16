@@ -1,8 +1,10 @@
-import logo from "./logo.svg";
-import "./App.css";
-
 function App() {
-  return <div></div>;
+  return (
+    <div className="grid grid-cols-4 gap-4 ">
+      <div className="col-span-3 ">courses</div>
+      <div>plan</div>
+    </div>
+  );
 }
 
 export default App;
