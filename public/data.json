@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "title": "Sociology",
+    "image": "https://m.media-amazon.com/images/I/51wU4vxjR4L.jpg",
+    "description": "Sociology is a social science that focuses on society, human social behavior, patterns of social relationships, social interaction, and aspects of culture associated with everyday life.",
+    "chapter": "12",
+    "time": "30min"
+  },
+  {
+    "id": "2",
+    "title": "Physics",
+    "image": "https://media.wiley.com/product_data/coverImage300/90/11194601/1119460190.jpg",
+    "description": "Physics is the natural science that studies matter, its fundamental constituents, its motion and behavior through space and time, and the related entities of energy and force.",
+    "chapter": "25",
+    "time": "50min"
+  },
+  {
+    "id": "3",
+    "title": "Chemistry",
+    "image": "https://m.media-amazon.com/images/I/71R58lgksxL.jpg",
+    "description": "Chemistry is the branch of science that deals with the properties, composition, and structure of elements and compounds, how they can change, and the energy that is released or absorbed when they change.",
+    "chapter": "21",
+    "time": "20min"
+  },
+  {
+    "id": "4",
+    "title": "Electronics",
+    "image": "https://www.elprocus.com/wp-content/uploads/2013/11/Electronics-Circuits-and-System.jpg",
+    "description": "A branch of physics that deals with the emission, behavior, and effects of electrons (as in electron tubes and transistors) and with electronic devices.",
+    "chapter": "18",
+    "time": "30min"
+  },
+  {
+    "id": "5",
+    "title": "Optoelectronics",
+    "image": "https://m.media-amazon.com/images/I/51ObkvYH9YL._SL500_.jpg",
+    "description": "Optoelectronics is based on the quantum mechanical effects of light on electronic materials, especially semiconductors. ",
+    "chapter": "35",
+    "time": "50min"
+  },
+  {
+    "id": "6",
+    "title": "Mechatronics",
+    "image": "https://m.media-amazon.com/images/I/81ycp9IF4IL.jpg",
+    "description": "Mechatronics, also called mechatronics engineering, is an interdisciplinary branch of engineering that focuses on the integration of mechanical, electrical and electronic engineering systems, and also includes a combination of robotics, electronics, computer science, telecommunications, systems, control, and product engineering.",
+    "chapter": "20",
+    "time": "40min"
+  },
+  {
+    "id": "7",
+    "title": "English",
+    "image": "https://m.media-amazon.com/images/I/51ME5wA0SLL._SX474_BO1,204,203,200_.jpg",
+    "description": "Its the first choice for intermediate (B1-B2) learners and covers all the grammar you will need at this level.",
+    "chapter": "10",
+    "time": "30min"
+  },
+  {
+    "id": "8",
+    "title": "General Knowledge",
+    "image": "https://1.bp.blogspot.com/-LhznzF2ru_U/WpdrEdZq8lI/AAAAAAAASjU/CazeZE4zK-wnLSeXGNYmNVOULDo7zvoDQCLcBGAs/s1600/Current%2BAffairs%2BBangla%2BGeneral%2BKnowledge%2BMagazine%2B-%2BFebruary%2B2018.jpg",
+    "description": "Know more about Bangladesh and surroundings...",
+    "chapter": "6",
+    "time": "10min"
+  },
+  {
+    "id": "9",
+    "title": "Tintin",
+    "image": "https://www.budsartbooks.com/wp-content/uploads/2019/08/product_a_d_advtin-adventures-of-tintin-collection_3_1.jpg",
+    "description": "Tintin is a reporter, adventurer, traveler, and the protagonist of the popular comic book series The Adventures of Tintin.",
+    "chapter": "7",
+    "time": "40min"
+  }
+]
