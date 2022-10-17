@@ -31,7 +31,7 @@ const Courses = ({ func }) => {
           <FontAwesomeIcon icon={faBookOpenReader} /> Course Buddy
         </p>
         <p>Select today's study plan</p>
-        <div className="grid grid-cols-3 gap-4 my-6 mt-12 w-fit">
+        <div className="grid lg:grid-cols-2 xl:grid-cols-3 gap-4 my-6 mt-12 w-fit">
           {state.map((data) => (
             <SingleCourse details={data} func={getTimes} key={data.id} />
           ))}
