@@ -1,6 +1,8 @@
 import React from "react";
 
-const SingleCourse = ({ details }) => {
+const SingleCourse = ({ details, func }) => {
+  const time = parseInt(details.time.slice(0, 2));
+
   return (
     <div>
       <div className="card w-72  bg-amber-50 shadow-xl">
@@ -15,9 +17,15 @@ const SingleCourse = ({ details }) => {
           <h2 className="card-title mx-auto">{details.title}</h2>
           <p className="text-slate-500 line-clamp-3 ">{details.description}</p>
           <p>Chapters: {details.chapter}</p>
-          <p>Time required: {details.time}</p>
+          <p>Time required: {time} min</p>
           <div className="card-actions w-full">
-            <button className="btn btn-primary w-full">Add to list</button>
+            <button
+              className="btn btn-primary w-full"
+              id={details.id}
+              onClick={() => func(time, details.id)}
+            >
+              Add to list
+            </button>
           </div>
         </div>
       </div>
